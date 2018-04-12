@@ -14,6 +14,7 @@ namespace MyThird.Web
     {
         public static void Main(string[] args)
         {
+            // edit by mac
             BuildWebHost(args).Run();
         }
 
